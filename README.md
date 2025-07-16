@@ -29,12 +29,7 @@ Bu depo, bilgisayar mühendisliği lisans eğitimim sırasında C programlama di
 - `selection_sort_secmelisiralama.c`
 - `quick_sort.c`
 
-### ✏️ Diğer
+# Diğer
 - `veri_girisi.c`
 
-## ⚙️ Derleme ve Çalıştırma
-
-Tüm `.c` dosyaları GCC ile aşağıdaki şekilde derlenebilir:
-
-```bash
 
